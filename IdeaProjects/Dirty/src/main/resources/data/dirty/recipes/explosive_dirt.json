@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "dirty:piece_of_dirt"
+    }
+  ],
+  "result": {
+    "item": "dirty:explosive_dirt",
+    "count": 2
+  }
+}

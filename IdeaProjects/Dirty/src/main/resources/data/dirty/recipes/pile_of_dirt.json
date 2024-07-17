@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dirty:melted_dirt"
+    },
+    {
+      "item": "dirty:living_roots"
+    }
+  ],
+  "result": {
+    "item": "dirty:roots_soup"
+  }
+}

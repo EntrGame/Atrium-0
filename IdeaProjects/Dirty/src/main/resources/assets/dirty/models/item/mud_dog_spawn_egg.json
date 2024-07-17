@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dirty:item/mud_dog_spawn_egg"
+  }
+}

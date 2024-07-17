@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "I":{
+      "item": "dirty:iron_sheet"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "dirty:processing_table",
+    "count": 1
+  }
+}

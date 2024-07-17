@@ -1,0 +1,10 @@
+{
+  "type": "dirty:recycling",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "dirty:burnt_iron_sheet",
+    "count": 1
+  }
+}

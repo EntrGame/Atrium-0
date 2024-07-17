@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dirty:wheat",
+      "weight": 1000
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 774356299,
+    "spacing": 5,
+    "separation": 2
+  }
+}

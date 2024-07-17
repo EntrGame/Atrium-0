@@ -1,0 +1,10 @@
+{
+  "type": "dirty:processing",
+  "ingredient": {
+    "item": "dirty:piece_of_dirt"
+  },
+  "result": {
+    "item": "dirty:pile_of_dirt",
+    "count": 1
+  }
+}

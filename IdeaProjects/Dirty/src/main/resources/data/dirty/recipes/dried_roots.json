@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dirty:pile_of_dirt"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": "dirty:dried_roots",
+  "count": 1
+}

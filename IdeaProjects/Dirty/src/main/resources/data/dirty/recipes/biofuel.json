@@ -1,0 +1,10 @@
+{
+  "type": "dirty:recycling",
+  "ingredient": {
+    "item": "dirty:dirt_block"
+  },
+  "result": {
+    "item": "dirty:biofuel",
+    "count": 1
+  }
+}

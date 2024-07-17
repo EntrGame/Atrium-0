@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "nespisnikersni.dirty.mixin",
+	"minVersion": "0.8",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"AbstractFurnaceBlockEntityMixin",
+		"BlockMixin",
+		"LivingEntityMixin",
+		"ItemEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

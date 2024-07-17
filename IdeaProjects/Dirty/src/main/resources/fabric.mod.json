@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "dirty",
+	"version": "${version}",
+	"name": "Dirty",
+	"description": "a mod that adds a little bit of everything",
+	"authors": [
+		"Nespisnikersni"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/dirty",
+		"issues": "https://discord.gg/6bdBFybSBs"
+	},
+	"license": "MIT",
+	"icon": "assets/dirty/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"nespisnikersni.dirty.Dirty"
+		],
+		"client": [
+			"nespisnikersni.dirty.DirtyClient"
+		],
+		"fabric-datagen": [
+			"nespisnikersni.dirty.DirtyDatagen"
+		],
+		"terrablender": [
+			"nespisnikersni.dirty.biomes.DirtyTerraBlenderApi"
+		]
+	},
+	"mixins": [
+		"dirty.mixins.json",
+		{
+			"config": "dirty.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}

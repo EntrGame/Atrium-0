@@ -1,0 +1,10 @@
+{
+  "type": "dirty:screening",
+  "ingredient": {
+    "item": "minecraft:grass_block"
+  },
+  "result": {
+    "item": "dirty:living_roots",
+    "count": 1
+  }
+}

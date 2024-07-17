@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dirty:block/processing_table"
+    }
+  }
+}
